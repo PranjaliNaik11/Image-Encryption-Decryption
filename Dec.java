@@ -19,7 +19,7 @@ public class Dec
 	{
 		try
 		{
-			secretKey = new SecretKeySpec("Pranjali".getBytes(), "Blowfish");
+			secretKey = new SecretKeySpec("FName".getBytes(), "Blowfish");
 			cipher = Cipher.getInstance("Blowfish");
 		}
 		catch (NoSuchPaddingException ex)
