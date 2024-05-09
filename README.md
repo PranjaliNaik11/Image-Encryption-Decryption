@@ -21,10 +21,10 @@ This Java project demonstrates image encryption and decryption using the Blowfis
 
 ### Installation
 
-1. Clone the project repository from [GitHub](https://github.com/PranjaliNaik11/image-encryption-decryption-blowfish-java).
+1. Clone the project repository from [GitHub](https://github.com/PranjaliNaik11/Image_Encryption_Decryption_Blowfish_java).
 
    ```bash
-   git clone https://github.com/example/image-encryption-decryption-blowfish-java.git
+   git clone https://github.com/example/Image_Encryption_Decryption_Blowfish_java.git
    ```
 
 2. Navigate to the project directory.
