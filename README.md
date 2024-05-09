@@ -30,7 +30,7 @@ This Java project demonstrates image encryption and decryption using the Blowfis
 2. Navigate to the project directory.
 
    ```bash
-   cd image-encryption-decryption-blowfish-java
+   cd Image_Encryption_Decryption_Blowfish_java
    ```
 
 ### Usage
